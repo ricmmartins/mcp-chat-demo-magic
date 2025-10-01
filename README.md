@@ -36,8 +36,8 @@ Make sure you have the following installed/configured before running the demo:
 Clone the repo and execute the script:
 
 ```bash
-git clone https://github.com/YOUR-USER/azure-mcp-chat-demo.git
-cd azure-mcp-chat-demo
+git clone https://github.com/ricmmartins/mcp-chat-demo-magic.git
+cd mcp-chat-demo-magic
 ./demo.sh
 ```
 
